@@ -1,0 +1,14 @@
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/obj/Debug/net8.0/OOPs1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/obj/Debug/net8.0/OOPs1.AssemblyInfoInputs.cache
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/obj/Debug/net8.0/OOPs1.AssemblyInfo.cs
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/obj/Debug/net8.0/OOPs1.csproj.CoreCompileInputs.cache
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/bin/Debug/net8.0/OOPs1
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/bin/Debug/net8.0/OOPs1.deps.json
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/bin/Debug/net8.0/OOPs1.runtimeconfig.json
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/bin/Debug/net8.0/OOPs1.dll
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/bin/Debug/net8.0/OOPs1.pdb
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/obj/Debug/net8.0/OOPs1.dll
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/obj/Debug/net8.0/refint/OOPs1.dll
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/obj/Debug/net8.0/OOPs1.pdb
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/obj/Debug/net8.0/OOPs1.genruntimeconfig.cache
+/Users/deepanalla/RiderProjects/OOPs/OOPs1/obj/Debug/net8.0/ref/OOPs1.dll
