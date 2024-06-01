@@ -1,0 +1,14 @@
+/Users/prajayreddy/RiderProjects/Method/Method2/bin/Debug/net8.0/Method2
+/Users/prajayreddy/RiderProjects/Method/Method2/bin/Debug/net8.0/Method2.deps.json
+/Users/prajayreddy/RiderProjects/Method/Method2/bin/Debug/net8.0/Method2.runtimeconfig.json
+/Users/prajayreddy/RiderProjects/Method/Method2/bin/Debug/net8.0/Method2.dll
+/Users/prajayreddy/RiderProjects/Method/Method2/bin/Debug/net8.0/Method2.pdb
+/Users/prajayreddy/RiderProjects/Method/Method2/obj/Debug/net8.0/Method2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prajayreddy/RiderProjects/Method/Method2/obj/Debug/net8.0/Method2.AssemblyInfoInputs.cache
+/Users/prajayreddy/RiderProjects/Method/Method2/obj/Debug/net8.0/Method2.AssemblyInfo.cs
+/Users/prajayreddy/RiderProjects/Method/Method2/obj/Debug/net8.0/Method2.csproj.CoreCompileInputs.cache
+/Users/prajayreddy/RiderProjects/Method/Method2/obj/Debug/net8.0/Method2.dll
+/Users/prajayreddy/RiderProjects/Method/Method2/obj/Debug/net8.0/refint/Method2.dll
+/Users/prajayreddy/RiderProjects/Method/Method2/obj/Debug/net8.0/Method2.pdb
+/Users/prajayreddy/RiderProjects/Method/Method2/obj/Debug/net8.0/Method2.genruntimeconfig.cache
+/Users/prajayreddy/RiderProjects/Method/Method2/obj/Debug/net8.0/ref/Method2.dll
