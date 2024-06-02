@@ -1,0 +1,14 @@
+/Users/deepanalla/RiderProjects/Generics/Generics/obj/Debug/net8.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepanalla/RiderProjects/Generics/Generics/obj/Debug/net8.0/Generics.AssemblyInfoInputs.cache
+/Users/deepanalla/RiderProjects/Generics/Generics/obj/Debug/net8.0/Generics.AssemblyInfo.cs
+/Users/deepanalla/RiderProjects/Generics/Generics/obj/Debug/net8.0/Generics.csproj.CoreCompileInputs.cache
+/Users/deepanalla/RiderProjects/Generics/Generics/bin/Debug/net8.0/Generics
+/Users/deepanalla/RiderProjects/Generics/Generics/bin/Debug/net8.0/Generics.deps.json
+/Users/deepanalla/RiderProjects/Generics/Generics/bin/Debug/net8.0/Generics.runtimeconfig.json
+/Users/deepanalla/RiderProjects/Generics/Generics/bin/Debug/net8.0/Generics.dll
+/Users/deepanalla/RiderProjects/Generics/Generics/bin/Debug/net8.0/Generics.pdb
+/Users/deepanalla/RiderProjects/Generics/Generics/obj/Debug/net8.0/Generics.dll
+/Users/deepanalla/RiderProjects/Generics/Generics/obj/Debug/net8.0/refint/Generics.dll
+/Users/deepanalla/RiderProjects/Generics/Generics/obj/Debug/net8.0/Generics.pdb
+/Users/deepanalla/RiderProjects/Generics/Generics/obj/Debug/net8.0/Generics.genruntimeconfig.cache
+/Users/deepanalla/RiderProjects/Generics/Generics/obj/Debug/net8.0/ref/Generics.dll
